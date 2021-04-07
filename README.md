@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with My code
 - 💬 Ask me about anything
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/rlaporal/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rlaporal/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 10 in my head
 -->
