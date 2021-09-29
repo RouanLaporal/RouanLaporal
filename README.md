@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rlaporal/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have 10 in my head
+- ⚡ Fun fact: 
 -->
