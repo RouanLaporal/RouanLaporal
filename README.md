@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a database visualizer
+- 🔭 I’m currently working on an API with an hexagonal structure
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Typescript
 - 🤔 I’m looking for help with  my js skills
