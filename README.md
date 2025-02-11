@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RouanLaporal&theme=dark" alt="RouanLaporal" />
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LePetitLouis.LePetitLouis)
-![](https://komarev.com/ghpvc/?username=LePetitLouis&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=RouanLaporal.RouanLaporal)
+![](https://komarev.com/ghpvc/?username=RouanLaporal&color=brightgreen)
