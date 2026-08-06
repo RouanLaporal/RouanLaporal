@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an API with an hexagonal structure
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on Typescript
-- 🤔 I’m looking for help with  my js skills
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on open source project
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rlaporal/)
 - 😄 Pronouns: he/him
